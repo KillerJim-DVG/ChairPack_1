@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.kjmodp_chairpack-13594126.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "G:/DVG/KJModP_ChairPack/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "KJModP_ChairPack-13594126 [UE Editor]"
+				}
+			}
+		}
+	]
+}
